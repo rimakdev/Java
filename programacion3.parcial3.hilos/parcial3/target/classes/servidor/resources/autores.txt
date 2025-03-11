@@ -1,0 +1,20 @@
+101@Luis@Martínez@123456789@Ingeniería de Sistemas@Licenciado@1
+102@María@Gómez@987654321@Ingeniería de Sistemas@Licenciada@1
+103@Juan@Pérez@111222333@Ingeniería Industrial@Licenciado@2
+104@Ana@Ramírez@222333444@Ingeniería Industrial@Licenciada@2
+105@Carlos@Hernández@333444555@Ingeniería de Software@Licenciado@3
+106@Laura@Jiménez@444555666@Ingeniería de Software@Licenciada@3
+107@Pedro@Rodríguez@555666777@Administración de Empresas@Licenciado@4
+108@Marta@Sánchez@666777888@Administración de Empresas@Licenciada@4
+109@Javier@López@777888999@Arquitectura@Licenciado@5
+110@Beatriz@García@888999000@Arquitectura@Licenciada@5
+111@Ricardo@Fernández@999000111@Biología@Licenciado@6
+112@Sofía@Torres@000111222@Biología@Licenciada@6
+113@Eduardo@Martínez@111222333@Derecho@Licenciado@7
+114@Isabel@Ramírez@222333444@Derecho@Licenciada@7
+115@Luis@Alvarado@333444555@Psicología@Licenciado@8
+116@Elena@Morales@444555666@Psicología@Licenciada@8
+117@Raúl@Gómez@555666777@Medicina@Licenciado@9
+118@Carmen@Vázquez@666777888@Medicina@Licenciada@9
+119@Francisco@García@777888999@Física@Licenciado@10
+120@Silvia@Martínez@888999000@Física@Licenciada@10

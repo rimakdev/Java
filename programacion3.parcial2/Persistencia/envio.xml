@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.1" class="java.beans.XMLDecoder">
+ <object class="programacion2.model.Envio">
+  <void property="codigo">
+   <string>cb8295a8-b124-4929-832b-eb5839bd561d</string>
+  </void>
+  <void property="fechaEnvio">
+   <object class="java.util.Date">
+    <long>1729113914296</long>
+   </object>
+  </void>
+  <void property="nombreCliente">
+   <string>dfhjk ertyuio</string>
+  </void>
+  <void property="paquetes">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="programacion2.model.Paquete">
+      <void property="codigo">
+       <string>67890</string>
+      </void>
+      <void property="peso">
+       <double>890.0</double>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="total">
+   <double>88990.0</double>
+  </void>
+  <void property="zona">
+   <string>rural</string>
+  </void>
+ </object>
+</java>
